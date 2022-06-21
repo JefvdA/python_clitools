@@ -19,4 +19,4 @@ def wait_for_enter():
 def get_user_input(message: str):
     """Method to ask for user input, but uses following format:
     'What is your name? >>> '"""
-    return input(f"{message} >>>")
+    return input(f"{message} >>> ")
