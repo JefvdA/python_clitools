@@ -2,6 +2,8 @@
 This package removes annoying boilerplate code that you will see you write yourself over and over again to create a pleasant cli-centered user interface.
 
 * [Installation](#installation)
+* [Tools](#tools)
+* [Menu](#menu)
 
 # Installation
 For more information, check out the [PyPi page](https://pypi.org/project/JefvdA-python-clitools/)
@@ -37,3 +39,4 @@ When a "Menu" option is created, it can be displayed with the "show()" method.
 ```python
 menu.show()
 ```
+*This will only run the menu once, if you wish to keep displaying the menu. Wrap the "show" in a while loop + add an option to exit the program*
