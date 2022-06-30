@@ -14,13 +14,14 @@ pip install JefvdA-python-clitools
 ```
 
 # Tools
-The tools are methods that are used most-often. <br>
+Methods that are used most-often. <br>
 These include:
 * **clear()** -> OS independant method to clear the terminal
 * **wait_for_enter()** -> method to wair for user input before continuing, clears the screen after
 * **get_user_input()** -> method to returns user input. This method formats the text printed for the input to add " >>> " after it. Example: "What is your name?", becomes, "What is your name? >>> "
 
-# Menu
+The 'tools' module also consists of the "Menu" class, read more about that below.
+## Menu
 A "Menu" class that makes it very easy to display a menu in the terminal, and have different results for all the options the user can choose from.
 
 When initiating a new "Menu" object, make sure to pass it all the options, aswell as their corresponding fucntions. <br>
