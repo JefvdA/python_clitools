@@ -1,3 +1,5 @@
+[![Downloads](https://static.pepy.tech/badge/JefvdA-python-clitools)](https://pepy.tech/project/JefvdA-python-clitools) <br>
+
 # Python clitools
 This package removes annoying boilerplate code that you will see you write yourself over and over again to create a pleasant cli-centered user interface.
 
