@@ -1,7 +1,13 @@
-[![Downloads](https://static.pepy.tech/badge/JefvdA-python-clitools)](https://pepy.tech/project/JefvdA-python-clitools) <br>
-
 # Python clitools
 This package removes annoying boilerplate code that you will see you write yourself over and over again to create a pleasant cli-centered user interface.
+
+[![Downloads](https://static.pepy.tech/badge/JefvdA-python_clitools)](https://pepy.tech/project/JefvdA-python_clitools)
+[![GitHub issues](https://img.shields.io/github/issues-raw/JefvdA/python_clitools)](https://github.com/JefvdA/python_clitools/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/JefvdA/python_clitools)](https://github.com/JefvdA/python_clitools/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/JefvdA/python_clitools)](https://github.com/JefvdA/python_clitools/graphs/contributors)
+[![PyPI](https://img.shields.io/pypi/v/JefvdA-python-clitools)](https://pypi.org/project/JefvdA-python-clitools/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JefvdA/python_clitools)](https://github.com/JefvdA/python_clitools/releases)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/JefvdA/python_clitools/blob/main/LICENCE.md)
 
 * [Installation](#installation)
 * [Tools](#tools)
